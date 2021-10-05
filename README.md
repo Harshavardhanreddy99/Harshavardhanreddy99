@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harshavardhanreddy99
 - 👀 I’m interested in Software development
-- 📫 How to reach me harshavardhanreddygoli@my.unt.edu
+- 📫 How to reach me harshavardhanreddy83@gmail.com
 
 <!---
 Harshavardhanreddy99/Harshavardhanreddy99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
